@@ -1,4 +1,6 @@
 ## 👋 Hi, I’m Jonathan
+📧 jonathan.joaquim7@gmail.com
+
 - 📚I'm a Back-End student 
 
 ## Skills
