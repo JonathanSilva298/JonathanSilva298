@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Jonathan
 I am a Back-End student 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: Java / Spring Framework / Python / Dart / Kotlin
 
 - 🔭 I’m currently working on this page.
 
