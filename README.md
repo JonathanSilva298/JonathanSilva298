@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m Jonathan
 📧 jonathan.joaquim7@gmail.com
 
-- 📚I'm a Back-End student 
+- 📚 I'm a Back-End student 
+- 🎮 I love games and would like to make one someday
 
 ## Skills
 ### Languages
