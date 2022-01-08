@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Jonathan
-I am a Back-End student 
+I'm a Back-End student 
 
 ## Skills
 ### Languages
